@@ -49,13 +49,13 @@ Click in R10, write the Sum function(=SUM(L2:L1001))
 
 
 ## 📌 Results
--No duplicates or missing values found 
--Calculated the commission for each row in column L 
--Sorted all customers age-wise in descending order   
--Calculated the total commission using the sum function in cell R10
+- No duplicates or missing values found 
+- Calculated the commission for each row in column L 
+- Sorted all customers age-wise in descending order   
+- Calculated the total commission using the sum function in cell R10
 - Calculated the average commission using the average function in cell R11
 - Created a pivot table
--Categorised products based on their sales volume 
+- Categorised products based on their sales volume 
 
 
 
