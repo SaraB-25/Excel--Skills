@@ -28,7 +28,7 @@ The goal is to demonstrate Microsoft Excel key features and functions for data c
 
 ### Filtering customers according to their age 
 - Filtering customers' age in descending order by clicking the down arrow in the age column and selecting sorting largest to smallest
-- <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/637b41db-7df2-4ac8-bf4a-7bca35424b2f" />
+ <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/637b41db-7df2-4ac8-bf4a-7bca35424b2f" />
 
 ### Calculating the total Commission using the sum function in cell R10
 -	To calculate the total Commission using the sum function in cell R10,
