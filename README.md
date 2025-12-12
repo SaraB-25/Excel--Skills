@@ -3,7 +3,7 @@
 These projects analyze customer retail sales transactions and bike sales using Microsoft Excel
 The goal is to demonstrate Microsoft Excel key features and functions for data cleaning, validation, filtering, and data importing
 ## 🎯 Objectives
--Get familiarised with the key features and functions
+- Get familiarised with the key features and functions
 - Clean and prepare customer data  
 - Calculating the Commission
 - Sorting customers according to their age 
