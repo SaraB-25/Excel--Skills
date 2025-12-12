@@ -62,13 +62,3 @@ Click in R10, write the Sum function(=SUM(L2:L1001))
 - Created a pivot table
 - Categorised products based on their sales volume 
 
-
-
-
-
-
-
-  
-- 
-
-
