@@ -68,9 +68,6 @@ Click in R10, write the Sum function(=SUM(L2:L1001))
 
 
 
-
-
-
   
 - 
 
